@@ -29,7 +29,7 @@
 							<div class="productcontent">
 								<a href="http://www.bosch-home.co.uk/our-products/washers-and-dryers/washing-machines/washing-machines-range/list.html" target="_blank">
 									<img src="./s/img/html/washing_machine.png" alt="Bosch Logixx 8 VarioPerfect Automatic washing machine WAS32461GB" class="product_logo"/></a>
-								<p>
+								<p id="pWM">
 									White. 8kg capacity. <b>1600 rpm.</b> Energy A less 30%. <b>(30% better than A)</b>. EcoSilence Drive. AntiVibration panels and sound package.
 									<b>EcoPerfect.</b> SpeedPerfect.Reduced Ironing and Aqua Plus options. Mixed Load. <b>Super Quick 15.</b> Dark Wash. 
 									Sensitive. Time Delay and Time Remaining. <b>Reload function.</b> Child Lock.
@@ -155,5 +155,11 @@
 				</div>
 			</div>
 		</div>
+		<script type="text/javascript">
+		var content = document.getElementById("pWM").innerHTML;
+		var strArray = content.split('.',2);
+		alert(strArray.toString());
+		
+		</script>
 	</body>
 </html>
