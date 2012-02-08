@@ -1,0 +1,11 @@
+body{background-color:#EF6C9A; padding:7px;}
+div#dvHead{background-color:#EF6C9A;}
+h1{color :#0F4775  ;line-height:1.4em;font-weight:bold;text-transform:uppercase; font-family:verdana;font-size:180%;}
+h2{color :#404245;font-family:verdana; margin:3px auto; font-size:25px;font-style:bold;} 
+h3{color :#63018E ;font-family:verdana; margin:5px auto; font-size:20px; font-style:bold;}
+h4{color :#101010 ;font-family:verdana; margin:5px auto; font-style:italic; font-size: 10px;}
+p{font-family:calibri;color:#0C45A6; line-height:1.3em; padding:0px;text-indent:30px;margin:2px auto;}
+i{font-style:italic;}
+b{font-weight:bold;}
+img.firm_logo{border:0px solid #024E68; margin-left:615px;margin-right:-3cm; height:65px;}
+img.product_logo{border:0px solid #024E68; margin-left:0px;}
