@@ -1,5 +1,4 @@
 body{background-color:#EF6C9A; padding:7px;}
-div#dvHead{background-color:#EF6C9A;}
 h1{color :#0F4775  ;line-height:1.4em;font-weight:bold;text-transform:uppercase; font-family:verdana;font-size:180%;}
 h2{color :#404245;font-family:verdana; margin:3px auto; font-size:25px;font-style:bold;} 
 h3{color :#63018E ;font-family:verdana; margin:5px auto; font-size:20px; font-style:bold;}
@@ -9,3 +8,21 @@ i{font-style:italic;}
 b{font-weight:bold;}
 img.firm_logo{border:0px solid #024E68; margin-left:615px;margin-right:-3cm; height:65px;}
 img.product_logo{border:0px solid #024E68; margin-left:0px;}
+a:link{text-decoration:underline; color: #0057B7;}
+a:hover{color: red;}
+form#urunnot{line-height:1.3em;color:#024E68;margin-bottom:3cm;}
+input.yazi{width: 180px; placeholder:placeholder;}
+div#dvHead{background-color:#EF6C9A;}
+div#dvMain{margin:20px ; width:830px; margin-left:0.2cm;margin-right:0.2cm;}
+div.products{padding: 1px;margin:15px auto;}
+div.productcontent{padding: 1px;margin:5px auto;}
+div.subproductmodel{padding: 1px;margin:15px auto;}
+table,td,thead{color:#024E68; height:30px; width:0px; border:0px solid #024E68;}
+table#baslik-logo{background-color:#EF6C9A; width:155%; height:9%; border:0px solid #024E68;}
+table#subjective{width:70%;}
+td#baslik1{text-align:left; vertical-align:middle; line-height:4em; font-size:120%;}
+td#cmnt{vertical-align: top;}
+thead#baslik{font-weight:bold; color:#024E68; 1px solid #024E68;}
+tr{line-height:20px; border: 0px solid #024E68;}
+hr.satirCizgisi{height:0.5px;color:#024E68; width:1271px}
+hr.product{border: dashed; border-height:1; color:#024E68; border-width:1px; font-size:1; width:1271px;}
