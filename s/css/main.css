@@ -26,3 +26,5 @@ thead#baslik{font-weight:bold; color:#024E68; 1px solid #024E68;}
 tr{line-height:20px; border: 0px solid #024E68;}
 hr.satirCizgisi{height:0.5px;color:#024E68; width:1271px}
 hr.product{border: dashed; border-height:1; color:#024E68; border-width:1px; font-size:1; width:1271px;}
+.posthidden {display:none;} 
+.postshown {display:inline;}
